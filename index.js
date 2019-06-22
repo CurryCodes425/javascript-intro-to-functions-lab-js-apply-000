@@ -11,4 +11,3 @@ function whisper(string)  {
 function logShot(string) {
   return string.toUpperCase();
 }
-
