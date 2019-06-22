@@ -7,3 +7,8 @@ function whisper(string)  {
   return string.toLowerCase();
 
 }
+
+function logShot(string) {
+  return string.toUpperCase();
+}
+
